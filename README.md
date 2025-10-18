@@ -17,12 +17,12 @@ Can easy-download snapshot dataset
 https://www.openfoam.com/documentation/tutorial-guide
 
 ### 4. The Well: 15TB Multi-Physics Dataset
-@PolymathicAI/the_well
+https://github.com/PolymathicAI/the_well
 
 ### 5. JAX_CFD Tutorials
-@google/jax-cfd
+https://github.com/google/jax-cfd
 
-## Opensource CFD Tools
+## Open-Source CFD Tools
 
 ### 1. OpenFOAM
 There are 2 general versions, org ver and ESI ver.
