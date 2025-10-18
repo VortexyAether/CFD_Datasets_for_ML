@@ -49,7 +49,7 @@ A curated collection of Computational Fluid Dynamics (CFD) datasets for machine 
 - **Application**: Turbulence modeling, flow statistics, ML for turbulence
 
 ### Turbulent Channel Flow DNS
-- **GitHub**: [https://github.com/turbulent-channel-flow/datasets](https://github.com/turbulent-channel-flow)
+- **GitHub**: [https://github.com/turbulent-channel-flow](https://github.com/turbulent-channel-flow)
 - **Description**: Direct numerical simulation data for turbulent channel flows at various Reynolds numbers
 - **Application**: Wall-bounded turbulence, RANS/LES model development
 
